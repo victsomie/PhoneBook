@@ -1,4 +1,5 @@
-package com.example.victor.phonebook;
+//package com.example.victor.phonebook;
+package com.example.sairamkrishna.myapplication
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -15,6 +16,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.sairamkrishna.myapplication.R;
 
 public class DisplayContact extends Activity {
     int from_Where_I_Am_Coming = 0;
